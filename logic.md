@@ -1,0 +1,1 @@
+# Parte lógica do algoritmo
